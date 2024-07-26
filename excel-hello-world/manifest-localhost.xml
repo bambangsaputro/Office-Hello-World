@@ -14,7 +14,7 @@
   <SupportUrl DefaultValue="https://learn.microsoft.com/office/dev/add-ins/overview/office-add-in-code-samples"/>
   <AppDomains>
     <AppDomain>https://localhost:3000</AppDomain>
-  </AppDomains>
+</AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
   </Hosts>
